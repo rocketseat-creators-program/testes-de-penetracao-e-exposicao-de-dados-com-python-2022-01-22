@@ -1,4 +1,3 @@
-# testes-de-penetracao-e-exposicao-de-dados-com-python-2022-01-22
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
 # Testes de Penetração e Exposição de Dados com Python
