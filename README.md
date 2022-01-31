@@ -9,4 +9,4 @@ O objetivo dessa aula é dar o conceito de teste de penetração e demonstrar na
 
 | [<img src="https://avatars.githubusercontent.com/u/8696475?v=4" width="75px;"/>](https://github.com/nikolasnf) |
 | :-: |
-|[Nikolas Fernandes](https://github.com/nikolasnf)|
+|[Nikolas Fernandes - NIK](https://github.com/nikolasnf)|
